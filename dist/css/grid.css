@@ -1,0 +1,43 @@
+h4 {
+  margin-top: 0px;
+}
+.row {
+  margin-bottom: 0px;
+  width: 70%;
+  float:center;
+  height:10px;
+}
+.row .row {
+  margin-top: 10px;
+  margin-bottom: 0;
+    PADDING-LEFT: 10PX;
+}
+[class*="col-"] {
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  background-color: #eee;
+  background-color: rgba(86,61,124,.15);
+  border: 1px solid #ddd;
+  border: 1px solid rgba(86,61,124,.2);
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+	.linkCliente
+{
+	background-color: transparent;
+	border: 0;
+	text-decoration: underline;
+}
+			
+	.linkCliente: hover
+{
+	background-color: transparent;
+	border: 0;
+	text-decoration: underline;
+	text-color:red;
+}
